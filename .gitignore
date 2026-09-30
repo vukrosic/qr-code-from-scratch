@@ -1,0 +1,4 @@
+demo.json
+*.png
+!results/*.png
+__pycache__/
